@@ -40,7 +40,7 @@ jobs:
 
       - name: Get version
         id: version
-        run: echo "version=$(grep '^version=' gradle.properties | cut -d= -f2)" >> $GITHUB_OUTPUT
+        run: echo "version=$(grep '^version' gradle.properties | cut -d= -f2 | tr -d ' ')" >> $GITHUB_OUTPUT
 
       - name: Create Release
         uses: softprops/action-gh-release@v2

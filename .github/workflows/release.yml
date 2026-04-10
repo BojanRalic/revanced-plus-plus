@@ -5,7 +5,6 @@ on:
   push:
     branches:
       - main
-      - dev
 
 jobs:
   release:
@@ -13,22 +12,25 @@ jobs:
     permissions:
       contents: write
       packages: write
-      id-token: write
-      attestations: write
-      artifact-metadata: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Setup Java
-        uses: actions/setup-java@v5
+        uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
           java-version: '17'
 
       - name: Cache Gradle
-        uses: burrunan/gradle-cache-action@v3
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: gradle-${{ hashFiles('**/*.gradle.kts', '**/gradle-wrapper.properties') }}
+          restore-keys: gradle-
 
       - name: Build
         env:
@@ -36,33 +38,25 @@ jobs:
           ORG_GRADLE_PROJECT_githubPackagesPassword: ${{ secrets.GITHUB_TOKEN }}
         run: ./gradlew :patches:buildAndroid clean
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v6
+      - name: Get version
+        id: version
+        run: echo "version=$(grep '^version=' gradle.properties | cut -d= -f2)" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
         with:
-          node-version: 'lts/*'
-          cache: 'npm'
+          tag_name: v${{ steps.version.outputs.version }}
+          name: Revanced++ v${{ steps.version.outputs.version }}
+          body: |
+            ## Revanced++ Patches v${{ steps.version.outputs.version }}
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Import GPG key
-        uses: crazy-max/ghaction-import-gpg@v6
-        with:
-          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
-          passphrase: ${{ secrets.GPG_PASSPHRASE }}
-          fingerprint: ${{ vars.GPG_FINGERPRINT }}
-
-      - name: Release
-        uses: cycjimmy/semantic-release-action@v5
-        id: release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ORG_GRADLE_PROJECT_githubPackagesUsername: ${{ github.actor }}
-          ORG_GRADLE_PROJECT_githubPackagesPassword: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Attest
-        if: steps.release.outputs.new_release_published == 'true'
-        uses: actions/attest@v4
-        with:
-          subject-name: 'Revanced++ Patches ${{ steps.release.outputs.new_release_git_tag }}'
-          subject-path: patches/build/libs/patches-*.rvp
+            ### Installation
+            1. Download **ReVanced Manager** from [github.com/ReVanced/revanced-manager/releases](https://github.com/ReVanced/revanced-manager/releases)
+            2. In ReVanced Manager: Settings → Sources → Add source
+            3. Enter: `https://github.com/BojanRalic/revanced-plus-plus/releases/latest/download/patches.rvp`
+            4. Download **YouTube APK** (version 20.14.43) from [apkmirror.com](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-14-43-release/)
+            5. In ReVanced Manager: Patcher → Select application → Storage → choose the YouTube APK
+            6. Select patches → Patch → Install
+          files: patches/build/libs/patches-*.rvp
+          fail_on_unmatched_files: false
+          make_latest: true

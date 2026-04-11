@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVancedin kieli</string>
             <string name="revanced_language_user_dialog_message">"Joidenkin kielten käännökset saattavat puuttua tai olla puutteellisia.
 
-Kääntääksesi uusia kieliä tai parantaaksesi olemassa olevia käännöksiä, vieraile osoitteessa github.com/CodeIsVibing/revanced-plus-plus"</string>
+Kääntääksesi uusia kieliä tai parantaaksesi olemassa olevia käännöksiä, vieraile osoitteessa github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Sovelluksen kieli</string>
             <string name="revanced_pref_import_export_title">Tuonti/vienti</string>
             <string name="revanced_pref_import_export_summary">Tuo/vie ReVanced-asetukset</string>

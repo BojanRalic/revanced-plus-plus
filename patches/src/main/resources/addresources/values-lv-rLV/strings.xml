@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced valoda</string>
             <string name="revanced_language_user_dialog_message">"Dažu valodu tulkojumi var būt trūkstoši vai nepilnīgi.
 
-Lai tulkotu jaunās valodas vai uzlabotu esošos tulkojumus, apmeklējiet github.com/CodeIsVibing/revanced-plus-plus"</string>
+Lai tulkotu jaunās valodas vai uzlabotu esošos tulkojumus, apmeklējiet github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Lietotnes valoda</string>
             <string name="revanced_pref_import_export_title">Importēt/Eksportēt</string>
             <string name="revanced_pref_import_export_summary">Importēt/Eksportēt ReVanced iestatījumus</string>

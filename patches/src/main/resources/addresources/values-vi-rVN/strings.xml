@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Ngôn ngữ ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Bản dịch cho một số ngôn ngữ có thể bị thiếu hoặc chưa hoàn thiện.
 
-Để dịch các ngôn ngữ mới hoặc cải thiện bản dịch hiện có, hãy truy cập github.com/CodeIsVibing/revanced-plus-plus"</string>
+Để dịch các ngôn ngữ mới hoặc cải thiện bản dịch hiện có, hãy truy cập github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Ngôn ngữ ứng dụng</string>
             <string name="revanced_pref_import_export_title">Nhập hoặc Xuất</string>
             <string name="revanced_pref_import_export_summary">Nhập hoắc xuất các cài đặt ReVanced</string>

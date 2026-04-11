@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">שפת ReVanced</string>
             <string name="revanced_language_user_dialog_message">"תרגומים עבור שפות מסוימות עשויים להיות חסרים או לא מלאים.
 
-כדי לתרגם שפות חדשות או לשפר את התרגומים הקיימים, בקר ב-github.com/CodeIsVibing/revanced-plus-plus"</string>
+כדי לתרגם שפות חדשות או לשפר את התרגומים הקיימים, בקר ב-github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">שפת היישום</string>
             <string name="revanced_pref_import_export_title">ייבוא / ייצוא</string>
             <string name="revanced_pref_import_export_summary">ייבוא / ייצוא הגדרות ReVanced</string>

@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced 語言</string>
             <string name="revanced_language_user_dialog_message">"部分語言的翻譯可能缺少或不完整。
 
-若要翻譯新的語言或改善現有翻譯，請前往 github.com/CodeIsVibing/revanced-plus-plus"</string>
+若要翻譯新的語言或改善現有翻譯，請前往 github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">應用程式語言</string>
             <string name="revanced_pref_import_export_title">匯入/匯出</string>
             <string name="revanced_pref_import_export_summary">匯入/匯出 ReVanced 設定</string>

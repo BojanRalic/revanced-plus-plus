@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Język ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Tłumaczenia dla niektórych języków mogą być brakujące lub niekompletne.
 
-Aby przetłumaczyć nowe języki lub poprawić istniejące tłumaczenia, odwiedź github.com/CodeIsVibing/revanced-plus-plus"</string>
+Aby przetłumaczyć nowe języki lub poprawić istniejące tłumaczenia, odwiedź github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Język aplikacji</string>
             <string name="revanced_pref_import_export_title">Zaimportuj / Wyeksportuj</string>
             <string name="revanced_pref_import_export_summary">Zaimportuj / Wyeksportuj ustawienia ReVanced</string>

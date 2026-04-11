@@ -87,7 +87,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced-sprog</string>
             <string name="revanced_language_user_dialog_message">"Oversættelser for nogle sprog kan mangle eller være ufuldstændige.
 
-For at oversætte nye sprog eller forbedre de eksisterende oversættelser, besøg github.com/CodeIsVibing/revanced-plus-plus"</string>
+For at oversætte nye sprog eller forbedre de eksisterende oversættelser, besøg github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">App-sprog</string>
             <string name="revanced_pref_import_export_title">Importér/Eksportér</string>
             <string name="revanced_pref_import_export_summary">Importér/Eksportér ReVanced-indstillinger</string>

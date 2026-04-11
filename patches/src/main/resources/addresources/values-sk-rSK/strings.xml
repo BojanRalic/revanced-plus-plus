@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Jazyk reVanced</string>
             <string name="revanced_language_user_dialog_message">"Preklady pre niektoré jazyky môžu chýbať alebo byť neúplné.
 
-Pre preloženie nových jazykov alebo zlepšenie existujúcich prekladov navštívte github.com/CodeIsVibing/revanced-plus-plus"</string>
+Pre preloženie nových jazykov alebo zlepšenie existujúcich prekladov navštívte github.com/CodeVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Jazyk aplikácie</string>
             <string name="revanced_pref_import_export_title">Importovať / Exportovať</string>
             <string name="revanced_pref_import_export_summary">Import / Export nastavení ReVanced</string>

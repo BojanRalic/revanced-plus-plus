@@ -30,7 +30,7 @@ In ReVanced Manager:
 2. Tap **Add source**
 3. Enter this URL:
    ```
-   https://github.com/CodeIsVibing/revanced-plus-plus/releases/latest/download/patches.rvp
+   https://github.com/CodeVibing/revanced-plus-plus/releases/latest/download/patches.rvp
    ```
 
 ### Step 3 — Download YouTube APK
@@ -49,7 +49,7 @@ Download YouTube version **20.14.43** (nodpi) from:
 ## Building from source
 
 ```bash
-git clone https://github.com/CodeIsVibing/revanced-plus-plus
+git clone https://github.com/CodeVibing/revanced-plus-plus
 cd revanced-plus-plus
 ./gradlew :patches:buildAndroid
 ```

@@ -36,7 +36,9 @@ jobs:
         env:
           ORG_GRADLE_PROJECT_githubPackagesUsername: ${{ github.actor }}
           ORG_GRADLE_PROJECT_githubPackagesPassword: ${{ secrets.GITHUB_TOKEN }}
-        run: ./gradlew clean :patches:buildAndroid
+        run: |
+          ./gradlew clean :patches:buildAndroid
+          cp patches/build/libs/patches-*.rvp patches/build/libs/patches.rvp
 
       - name: Get version
         id: version
@@ -57,6 +59,8 @@ jobs:
             4. Download **YouTube APK** (version 20.14.43) from [apkmirror.com](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-14-43-release/)
             5. In ReVanced Manager: Patcher → Select application → Storage → choose the YouTube APK
             6. Select patches → Patch → Install
-          files: patches/build/libs/patches-*.rvp
+          files: |
+            patches/build/libs/patches-*.rvp
+            patches/build/libs/patches.rvp
           fail_on_unmatched_files: false
           make_latest: true

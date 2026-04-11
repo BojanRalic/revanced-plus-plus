@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Revanced++ language</string>
             <string name="revanced_language_user_dialog_message">"Translations for some languages may be missing or incomplete.
 
-To translate new languages or improve the existing translations, visit github.com/BojanRalic/revanced-plus-plus"</string>
+To translate new languages or improve the existing translations, visit github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">App language</string>
             <string name="revanced_pref_import_export_title">Import / Export</string>
             <string name="revanced_pref_import_export_summary">Import / Export Revanced++ settings</string>

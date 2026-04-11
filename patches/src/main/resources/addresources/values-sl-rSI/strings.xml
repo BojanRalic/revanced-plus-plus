@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced jezik</string>
             <string name="revanced_language_user_dialog_message">"Prevodi za nekatere jezike so morda manjkajoči ali nepopolni.
 
-Če želite prevesti nove jezike ali izboljšati obstoječe prevode, obiščite github.com/BojanRalic/revanced-plus-plus"</string>
+Če želite prevesti nove jezike ali izboljšati obstoječe prevode, obiščite github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Jezik aplikacije</string>
             <string name="revanced_pref_import_export_title">Uvozi / Izvozi</string>
             <string name="revanced_pref_import_export_summary">Uvozi / Izvozi ReVanced nastavitve</string>

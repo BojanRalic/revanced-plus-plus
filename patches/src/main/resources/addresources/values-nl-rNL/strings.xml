@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced-taal</string>
             <string name="revanced_language_user_dialog_message">"Vertalingen voor sommige talen kunnen ontbreken of onvolledig zijn.
 
-Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek github.com/BojanRalic/revanced-plus-plus"</string>
+Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">App-taal</string>
             <string name="revanced_pref_import_export_title">Importeren / Exporteren</string>
             <string name="revanced_pref_import_export_summary">ReVanced-instellingen importeren / exporteren</string>

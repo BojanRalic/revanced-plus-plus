@@ -87,7 +87,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced-Sprache</string>
             <string name="revanced_language_user_dialog_message">"Übersetzungen für einige Sprachen fehlen möglicherweise oder sind unvollständig.
 
-Um neue Sprachen zu übersetzen oder die vorhandenen Übersetzungen zu verbessern, besuchen Sie github.com/BojanRalic/revanced-plus-plus"</string>
+Um neue Sprachen zu übersetzen oder die vorhandenen Übersetzungen zu verbessern, besuchen Sie github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">App-Sprache</string>
             <string name="revanced_pref_import_export_title">Import/Export</string>
             <string name="revanced_pref_import_export_summary">ReVanced-Einstellungen importieren/exportieren</string>

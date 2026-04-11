@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ภาษา ReVanced</string>
             <string name="revanced_language_user_dialog_message">"คำแปลสำหรับบางภาษาอาจหายไปหรือไม่สมบูรณ์
 
-หากต้องการแปลภาษาใหม่หรือปรับปรุงคำแปลที่มีอยู่ โปรดไปที่ github.com/BojanRalic/revanced-plus-plus"</string>
+หากต้องการแปลภาษาใหม่หรือปรับปรุงคำแปลที่มีอยู่ โปรดไปที่ github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">ภาษาของแอป</string>
             <string name="revanced_pref_import_export_title">นำเข้า / ส่งออก</string>
             <string name="revanced_pref_import_export_summary">นำเข้า / ส่งออกการตั้งค่า ReVanced</string>

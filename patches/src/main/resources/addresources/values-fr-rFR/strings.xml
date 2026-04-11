@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Langue de ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Les traductions en certaines langues peuvent être manquantes ou incomplètes.
 
-Pour traduire l'application en de nouvelles langues ou améliorer les traductions existantes, visitez github.com/BojanRalic/revanced-plus-plus"</string>
+Pour traduire l'application en de nouvelles langues ou améliorer les traductions existantes, visitez github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Langue de l\'application</string>
             <string name="revanced_pref_import_export_title">Importer/Exporter</string>
             <string name="revanced_pref_import_export_summary">Importer/Exporter les paramètres ReVanced</string>

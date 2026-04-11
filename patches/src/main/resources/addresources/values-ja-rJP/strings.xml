@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced 設定の言語</string>
             <string name="revanced_language_user_dialog_message">"一部の言語の翻訳が欠落しているまたは不完全である可能性があります。
 
-新しい言語を翻訳する、または既存の翻訳を改善するには、github.com/BojanRalic/revanced-plus-plus にアクセスしてください。"</string>
+新しい言語を翻訳する、または既存の翻訳を改善するには、github.com/CodeIsVibing/revanced-plus-plus にアクセスしてください。"</string>
             <string name="revanced_language_DEFAULT">アプリの言語</string>
             <string name="revanced_pref_import_export_title">インポート / エクスポート</string>
             <string name="revanced_pref_import_export_summary">ReVanced の設定をインポート/エクスポートします</string>

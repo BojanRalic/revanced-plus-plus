@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Språk för ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Översättningar till vissa språk kan vara ofullständiga eller saknas.
 
-Om du vill översätta till nya språk eller förbättra befintliga översättningar, besök github.com/BojanRalic/revanced-plus-plus"</string>
+Om du vill översätta till nya språk eller förbättra befintliga översättningar, besök github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Appspråk</string>
             <string name="revanced_pref_import_export_title">Importera/exportera</string>
             <string name="revanced_pref_import_export_summary">Importera/exportera ReVanced-inställningar</string>

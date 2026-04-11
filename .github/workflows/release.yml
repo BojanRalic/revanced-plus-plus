@@ -53,7 +53,7 @@ jobs:
             ### Installation
             1. Download **ReVanced Manager** from [github.com/ReVanced/revanced-manager/releases](https://github.com/ReVanced/revanced-manager/releases)
             2. In ReVanced Manager: Settings → Sources → Add source
-            3. Enter: `https://github.com/CodeVibing/revanced-plus-plus/releases/latest/download/patches.rvp`
+            3. Enter: `https://github.com/CodeIsVibing/revanced-plus-plus/releases/latest/download/patches.rvp`
             4. Download **YouTube APK** (version 20.14.43) from [apkmirror.com](https://www.apkmirror.com/apk/google-inc/youtube/youtube-20-14-43-release/)
             5. In ReVanced Manager: Patcher → Select application → Storage → choose the YouTube APK
             6. Select patches → Patch → Install

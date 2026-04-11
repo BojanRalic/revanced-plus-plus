@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced լեզվի</string>
             <string name="revanced_language_user_dialog_message">"Որոշ լեզուների թարգմանությունները կարող են բացակայել կամ թերի լինել:
 
-Նոր լեզուներ թարգմանելու կամ առկա թարգմանությունները բարելավելու համար այցելեք github.com/CodeVibing/revanced-plus-plus"</string>
+Նոր լեզուներ թարգմանելու կամ առկա թարգմանությունները բարելավելու համար այցելեք github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Հավելվածի լեզու</string>
             <string name="revanced_pref_import_export_title">Ներմուծում/Արտահանում</string>
             <string name="revanced_pref_import_export_summary">Import / Export ReVanced կարգավորումներ</string>

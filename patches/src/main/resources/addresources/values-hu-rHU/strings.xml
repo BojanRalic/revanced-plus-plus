@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced nyelve</string>
             <string name="revanced_language_user_dialog_message">"Egyes nyelvek fordításai hiányozhatnak vagy hiányosak lehetnek.
 
-Új nyelvek fordításához vagy a meglévő fordítások javításához látogasson el a github.com/CodeVibing/revanced-plus-plus oldalra."</string>
+Új nyelvek fordításához vagy a meglévő fordítások javításához látogasson el a github.com/CodeIsVibing/revanced-plus-plus oldalra."</string>
             <string name="revanced_language_DEFAULT">Alkalmazás nyelve</string>
             <string name="revanced_pref_import_export_title">Importálás / exportálás</string>
             <string name="revanced_pref_import_export_summary">ReVanced beállítások importálása / exportálása</string>

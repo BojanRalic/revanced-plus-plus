@@ -87,7 +87,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Limba ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Traducerile pentru unele limbi pot lipsi sau pot fi incomplete.
 
-Pentru a traduce limbi noi sau pentru a îmbunătăți traducerile existente, vizitați github.com/CodeVibing/revanced-plus-plus"</string>
+Pentru a traduce limbi noi sau pentru a îmbunătăți traducerile existente, vizitați github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Limba aplicației</string>
             <string name="revanced_pref_import_export_title">Importă / Exportă</string>
             <string name="revanced_pref_import_export_summary">Import/Export setări ReVanced</string>

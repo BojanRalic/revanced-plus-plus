@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Jezik ReVanceda</string>
             <string name="revanced_language_user_dialog_message">"Prevodi za neke jezike mogu nedostajati ili biti nepotpuni.
 
-Da biste preveli nove jezike ili poboljšali postojeće prevode, posetite github.com/CodeVibing/revanced-plus-plus"</string>
+Da biste preveli nove jezike ili poboljšali postojeće prevode, posetite github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Jezik aplikacije</string>
             <string name="revanced_pref_import_export_title">Uvoz / Izvoz</string>
             <string name="revanced_pref_import_export_summary">Uvoz / Izvoz podešavanja ReVanceda</string>

@@ -4,10 +4,10 @@ patches {
     about {
         name = "Revanced++ Patches"
         description = "Patches for Revanced++"
-        source = "https://github.com/CodeVibing/revanced-plus-plus"
+        source = "https://github.com/CodeIsVibing/revanced-plus-plus"
         author = "CodeVibing"
         contact = ""
-        website = "https://github.com/CodeVibing/revanced-plus-plus"
+        website = "https://github.com/CodeIsVibing/revanced-plus-plus"
         license = "GNU General Public License v3.0"
     }
 }

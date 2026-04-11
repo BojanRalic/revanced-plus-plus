@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Revancedi keel</string>
             <string name="revanced_language_user_dialog_message">"Mõnede keelte tõlked võivad olla puudu või mittetäielikud.
 
-Uute keelte tõlkimiseks või olemasolevate tõlgete parandamiseks külastage github.com/CodeVibing/revanced-plus-plus"</string>
+Uute keelte tõlkimiseks või olemasolevate tõlgete parandamiseks külastage github.com/CodeIsVibing/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Rakenduse keel</string>
             <string name="revanced_pref_import_export_title">Impordi / Ekspordi</string>
             <string name="revanced_pref_import_export_summary">Impordi / Ekspordi ReVanced seadeteid</string>

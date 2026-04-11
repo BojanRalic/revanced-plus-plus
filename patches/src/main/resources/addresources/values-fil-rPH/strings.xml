@@ -36,7 +36,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Balewalain</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Ang app na ito ay tila hindi mo na-patch.&lt;/h5&gt;&lt;br&gt;Ang app na ito ay maaaring hindi gumana nang maayos, &lt;b&gt;maaaring mapanganib o maging delikado gamitin&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Ang mga tseke na ito ay nagpapahiwatig na ang app na ito ay na-pre-patch o nakuha mula sa ibang tao:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Malakas na inirerekomenda na &lt;b&gt;i-uninstall ang app na ito at i-patch ito sa iyong sarili&lt;/b&gt; upang matiyak na gumagamit ka ng isang na-validate at ligtas na app.&lt;p&gt;&lt;br&gt;Kung hindi papansinin, ang babalang ito ay ipapakita lamang nang dalawang beses.</string>
             <string name="revanced_check_environment_not_same_patching_device">Naka-patch sa ibang device</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Hindi naka-install sa pamamagitan ng ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Hindi naka-install sa pamamagitan ng Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Naka-patch mahigit sa 10 minuto ang nakararaan</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Naka-patch %s araw ang nakalipas</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Ang petsa ng pagbuo ng APK ay sira</string>
@@ -88,7 +88,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Wika ng ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Maaaring nawawala o hindi kumpleto ang mga pagsasalin para sa ilang wika.
 
-Upang isalin ang mga bagong wika o pagbutihin ang kasalukuyang mga pagsasalin, bisitahin ang translate.revanced.app"</string>
+Upang isalin ang mga bagong wika o pagbutihin ang kasalukuyang mga pagsasalin, bisitahin ang github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Wika ng app</string>
             <string name="revanced_pref_import_export_title">Mag-import / Mag-export</string>
             <string name="revanced_pref_import_export_summary">I-import / I-export ang mga setting ng ReVanced</string>

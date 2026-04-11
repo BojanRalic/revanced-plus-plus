@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Bỏ qua</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Ứng dụng này xem ra không phải do bạn tự vá.&lt;/h5&gt;&lt;br&gt;Ứng dụng này có thể không hoạt động chính xác, &lt;b&gt;tiềm ẩn rủi ro hoặc thậm chí gây nguy hiểm khi sử dụng&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Những kiểm tra dưới đây cho thấy rằng ứng dụng được vá sẵn hoặc lấy từ nguồn khác;&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Chúng tôi khuyến nghị bạn nên &lt;b&gt;gỡ cài đặt ứng này và tự vá lại&lt;/b&gt; để đảm bảo bạn đang dùng một ứng dụng an toàn và hợp lệ.&lt;p&gt;&lt;br&gt;Cảnh báo này sẽ chỉ hiện hai lần, hãy cân nhắc trước khi bỏ qua.</string>
             <string name="revanced_check_environment_not_same_patching_device">Đã vá trên một thiết bị khác</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Không được cài đặt bởi ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Không được cài đặt bởi Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Đã vá hơn 10 phút trước</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Đã vá %s ngày trước</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Ngày dựng APK bị hỏng</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Ngôn ngữ ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Bản dịch cho một số ngôn ngữ có thể bị thiếu hoặc chưa hoàn thiện.
 
-Để dịch các ngôn ngữ mới hoặc cải thiện bản dịch hiện có, hãy truy cập translate.revanced.app"</string>
+Để dịch các ngôn ngữ mới hoặc cải thiện bản dịch hiện có, hãy truy cập github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Ngôn ngữ ứng dụng</string>
             <string name="revanced_pref_import_export_title">Nhập hoặc Xuất</string>
             <string name="revanced_pref_import_export_summary">Nhập hoắc xuất các cài đặt ReVanced</string>

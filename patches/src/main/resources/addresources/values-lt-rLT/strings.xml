@@ -37,7 +37,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ignoruoti</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Ši programa, atrodo, nebuvo pataisyta jūsų.&lt;/h5&gt;&lt;br&gt;Ši programa gali veikti netinkamai, &lt;b&gt;gali būti kenksminga arba net pavojinga naudoti&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Šie patikrinimai rodo, kad ši programa yra iš anksto pataisyta arba gauta iš kito asmens:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Stipriai rekomenduojama &lt;b&gt;ištrinti šią programą ir ją pataisyti patiems&lt;/b&gt;, kad įsitikintumėte, jog naudojate patikrintą ir saugią programą.&lt;p&gt;&lt;br&gt;Jei ignoruosite, šis perspėjimas bus rodomas tik du kartus.</string>
             <string name="revanced_check_environment_not_same_patching_device">Pataisyta kitame įrenginyje</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Nėra įdiegta ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Nėra įdiegta Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Pataisyta daugiau nei prieš 10 minučių</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Pataisyta prieš %s dienas</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK sukurties data yra sugadinta</string>
@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced kalba</string>
             <string name="revanced_language_user_dialog_message">"Kai kurių kalbų vertimai gali būti trūkstami arba neišsamūs.
 
-Norėdami išversti naujas kalbas arba patobulinti esamus vertimus, apsilankykite translate.revanced.app"</string>
+Norėdami išversti naujas kalbas arba patobulinti esamus vertimus, apsilankykite github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Programų kalba</string>
             <string name="revanced_pref_import_export_title">Importuoti / Eksportuoti</string>
             <string name="revanced_pref_import_export_summary">Importuoti / Eksportuoti ReVanced nustatymus</string>

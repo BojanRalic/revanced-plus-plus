@@ -37,7 +37,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ігнараваць</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Гэта дадатак відавочна не з\'яўляецца патчам.&lt;/h5&gt;&lt;br&gt;Гэта дадатак можа працаваць няправільна, а таксама можа быць &lt;b&gt;небяспечным або нават небяспечным у выкарыстанні&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Гэтыя праверкі азначаюць, што гэта дадатак было загаддзя перароблена або атрымана ад кагосьці іншага:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Настойліва рэкамендуецца &lt;b&gt;выдаліць гэты дадатак і перарабіць яго самастойна&lt;/b&gt;, каб пераканацца, што вы выкарыстоўваеце правераны і бяспечны дадатак.&lt;p&gt;&lt;br&gt;Калі ігнараваць, гэта папярэджанне будзе паказана толькі два разы.</string>
             <string name="revanced_check_environment_not_same_patching_device">Адкарэктавана на іншай прыладзе</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Не ўстаноўлена ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Не ўстаноўлена Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Адкарэктавана больш чым 10 хвілін таму</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Адкарэктавана %s дзён таму</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Дата стварэння APK пашкоджана</string>
@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Мова ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Пераклады для некаторых моў могуць адсутнічаць або быць няпоўнымі.
 
-Каб перакласці новыя мовы або палепшыць існуючыя пераклады, наведайце translate.revanced.app"</string>
+Каб перакласці новыя мовы або палепшыць існуючыя пераклады, наведайце github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Мова праграмы</string>
             <string name="revanced_pref_import_export_title">Імпарт / Экспарт</string>
             <string name="revanced_pref_import_export_summary">Імпарт / Экспарт налад ReVanced</string>

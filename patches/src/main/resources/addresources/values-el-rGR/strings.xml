@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Παράλειψη</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Αυτή η εφαρμογή δεν φαίνεται να έχει τροποποιηθεί από εσάς.&lt;/h5&gt;&lt;br&gt;Η εφαρμογή μπορεί να μη λειτουργεί σωστά, &lt;b&gt;θα μπορούσε να είναι επιβλαβής ή ακόμα και επικίνδυνη για χρήση&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Αυτοί οι έλεγχοι υποδηλώνουν ότι αυτή η εφαρμογή έχει τροποποιηθεί στο παρελθόν ή λήφθηκε από κάποιον άλλο:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Συνιστάται έντονα να απεγκαταστήσετε την εφαρμογή &lt;br&gt;και να την τροποποιήσετε μόνοι σας&lt;br&gt; για να διασφαλίσετε ότι χρησιμοποιείτε μια επικυρωμένη και ασφαλή εφαρμογή.&lt;p&gt;&lt;br&gt;Εάν αγνοηθεί, αυτή η προειδοποίηση θα εμφανιστεί μόνο δύο φορές.</string>
             <string name="revanced_check_environment_not_same_patching_device">Τροποποιήθηκε σε διαφορετική συσκευή</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Δεν έχει εγκατασταθεί μέσω του ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Δεν έχει εγκατασταθεί μέσω του Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Τροποποιήθηκε πάνω από 10 λεπτά πριν</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Τροποποιήθηκε πριν %s μέρες</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Η ημερομηνία κατασκευής του APK είναι κατεστραμμένη</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Γλώσσα ρυθμίσεων ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Οι μεταφράσεις για κάποιες γλώσσες ενδέχεται να λείπουν ή να είναι ελλιπείς.
 
-Για να μεταφράσετε σε νέες γλώσσες ή να βελτιώσετε τις υπάρχουσες μεταφράσεις, επισκεφθείτε τη διεύθυνση translate.revanced.app"</string>
+Για να μεταφράσετε σε νέες γλώσσες ή να βελτιώσετε τις υπάρχουσες μεταφράσεις, επισκεφθείτε τη διεύθυνση github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Γλώσσα εφαρμογής</string>
             <string name="revanced_pref_import_export_title">Εισαγωγή / Εξαγωγή</string>
             <string name="revanced_pref_import_export_summary">Εισαγωγή / Εξαγωγή ρυθμίσεων ReVanced</string>

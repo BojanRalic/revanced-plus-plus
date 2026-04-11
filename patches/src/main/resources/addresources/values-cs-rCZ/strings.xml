@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ignorovat</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Zdá se, že jste tuto upravenou verzi aplikace nevygenerovali vy.&lt;/h5&gt;&lt;br&gt;Aplikace nemusí fungovat správně, &lt;b&gt;může být škodlivá nebo nebezpečná&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Z následujících kontrol vyplývá, že úpravy této aplikace byly provedeny někým jiným:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Je důrazně doporučeno &lt;b&gt;odinstalovat tuto aplikaci a vygenerovat ji sami&lt;/b&gt;, abyste měli jistotu, že je aplikace ověřená a bezpečná.&lt;p&gt;&lt;br&gt;Pokud zvolíte Ignorovat, toto varování se zobrazí pouze dvakrát.</string>
             <string name="revanced_check_environment_not_same_patching_device">Vygenerována na jiném zařízení</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Nebyla nainstalována skrze ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Nebyla nainstalována skrze Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Vygenerována před více než 10 minutami</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Vygenerována před %s dny</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Datum sestavení souboru APK je poškozeno</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Jazyk ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Překlady pro některé jazyky mohou chybět nebo být neúplné.
 
-Chcete-li přeložit nové jazyky nebo zlepšit stávající překlady, navštivte translate.revanced.app"</string>
+Chcete-li přeložit nové jazyky nebo zlepšit stávající překlady, navštivte github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Jazyk aplikace</string>
             <string name="revanced_pref_import_export_title">Importovat / Exportovat</string>
             <string name="revanced_pref_import_export_summary">Importovat/exportovat nastavení ReVanced</string>

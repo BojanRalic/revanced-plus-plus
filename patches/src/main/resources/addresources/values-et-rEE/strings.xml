@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Eira</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;See rakendus ei paista olevat teie poolt parandatud.&lt;/h5&gt;&lt;br&gt;See rakendus ei pruugi korrektselt töötada, &lt;b&gt;võib olla kahjulik või isegi ohtlik kasutada&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Need kontrollid viitavad sellele, et see rakendus on eelnevalt parandatud või saadud kellegi teise käest:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Tugevalt soovitatakse &lt;b&gt;see rakendus desinstallida ja ise parandada&lt;/b&gt;, et tagada valideeritud ja turvalise rakenduse kasutamine.&lt;p&gt;&lt;br&gt;Kui ignoreeritakse, kuvatakse see hoiatus ainult kaks korda.</string>
             <string name="revanced_check_environment_not_same_patching_device">Parandatud teisel seadmel</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Pole installitud ReVanced Manageri poolt</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Pole installitud Revanced++ Manageri poolt</string>
             <string name="revanced_check_environment_not_near_patch_time">Parandatud rohkem kui 10 minutit tagasi</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Parandatud %s päeva tagasi</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK ehituskuupäev on rikutud</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Revancedi keel</string>
             <string name="revanced_language_user_dialog_message">"Mõnede keelte tõlked võivad olla puudu või mittetäielikud.
 
-Uute keelte tõlkimiseks või olemasolevate tõlgete parandamiseks külastage translate.revanced.app"</string>
+Uute keelte tõlkimiseks või olemasolevate tõlgete parandamiseks külastage github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Rakenduse keel</string>
             <string name="revanced_pref_import_export_title">Impordi / Ekspordi</string>
             <string name="revanced_pref_import_export_summary">Impordi / Ekspordi ReVanced seadeteid</string>

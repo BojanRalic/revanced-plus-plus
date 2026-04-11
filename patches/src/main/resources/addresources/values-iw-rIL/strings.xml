@@ -37,7 +37,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">התעלם</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;נראה שיישום זה לא תוקן על ידך.&lt;/h5&gt;&lt;br&gt;ייתכן שיישום זה לא יפעל כראוי, &lt;b&gt;יכול להיות מזיק ואפילו מסוכן לשימוש&lt;/b&gt;.&lt;br&gt;&lt;br&gt;בדיקות אלה מרמזות שיישום זה תוקן מראש או הושג ממישהו אחר:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;מומלץ בחום &lt;b&gt;להסיר יישום זה ולתקן אותו בעצמך&lt;/b&gt; כדי להבטיח שאתה משתמש ביישום מאומת ומאובטח.&lt;p&gt;&lt;br&gt;אם תתעלם מכך, אזהרה זו תוצג רק פעמיים.</string>
             <string name="revanced_check_environment_not_same_patching_device">תוקן במכשיר אחר</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">לא הותקן על ידי ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">לא הותקן על ידי Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">תוקן לפני יותר מ-10 דקות</string>
             <string name="revanced_check_environment_not_near_patch_time_days">תוקן לפני %s ימים</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">תאריך בניית ה-APK פגום</string>
@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">שפת ReVanced</string>
             <string name="revanced_language_user_dialog_message">"תרגומים עבור שפות מסוימות עשויים להיות חסרים או לא מלאים.
 
-כדי לתרגם שפות חדשות או לשפר את התרגומים הקיימים, בקר ב-translate.revanced.app"</string>
+כדי לתרגם שפות חדשות או לשפר את התרגומים הקיימים, בקר ב-github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">שפת היישום</string>
             <string name="revanced_pref_import_export_title">ייבוא / ייצוא</string>
             <string name="revanced_pref_import_export_summary">ייבוא / ייצוא הגדרות ReVanced</string>

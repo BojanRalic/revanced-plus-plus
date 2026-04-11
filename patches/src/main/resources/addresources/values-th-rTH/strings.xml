@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">ละเว้น</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;แอปนี้ดูเหมือนจะไม่ได้รับการแก้ไขโดยคุณ&lt;/h5&gt;&lt;br&gt;แอปนี้อาจทำงานไม่ถูกต้อง &lt;b&gt;อาจเป็นอันตรายหรือแม้กระทั่งอันตรายในการใช้&lt;/b&gt;.&lt;br&gt;&lt;br&gt;การตรวจสอบเหล่านี้บ่งบอกว่าแอปนี้ได้รับการแก้ไขล่วงหน้าหรือได้รับมาจากบุคคลอื่น: &lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;ขอแนะนำอย่างยิ่งให้ &lt;b&gt;ถอนการติดตั้งแอปนี้และแก้ไขด้วยตัวเอง&lt;/b&gt; เพื่อให้แน่ใจว่าคุณกำลังใช้แอปที่ได้รับการตรวจสอบและปลอดภัย&lt;p&gt;&lt;br&gt;หากไม่สนใจ คำเตือนนี้จะแสดงเพียงสองครั้งเท่านั้น</string>
             <string name="revanced_check_environment_not_same_patching_device">แก้ไขบนอุปกรณ์อื่น</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">ไม่ได้ติดตั้งโดย ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">ไม่ได้ติดตั้งโดย Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">แก้ไขเมื่อมากกว่า 10 นาทีที่แล้ว</string>
             <string name="revanced_check_environment_not_near_patch_time_days">แก้ไขเมื่อ %s วันที่แล้ว</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">วันที่สร้าง APK เสียหาย</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ภาษา ReVanced</string>
             <string name="revanced_language_user_dialog_message">"คำแปลสำหรับบางภาษาอาจหายไปหรือไม่สมบูรณ์
 
-หากต้องการแปลภาษาใหม่หรือปรับปรุงคำแปลที่มีอยู่ โปรดไปที่ translate.revanced.app"</string>
+หากต้องการแปลภาษาใหม่หรือปรับปรุงคำแปลที่มีอยู่ โปรดไปที่ github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">ภาษาของแอป</string>
             <string name="revanced_pref_import_export_title">นำเข้า / ส่งออก</string>
             <string name="revanced_pref_import_export_summary">นำเข้า / ส่งออกการตั้งค่า ReVanced</string>

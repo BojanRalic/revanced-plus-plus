@@ -37,7 +37,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">অবজ্ঞা করুন</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;এই অ্যাপটি আপনার দ্বারা প্যাচ করা হয়েছে বলে মনে হচ্ছে না।&lt;/h5&gt;&lt;br&gt;এই অ্যাপটি সঠিকভাবে কাজ নাও করতে পারে, &lt;b&gt;ক্ষতিকারক বা এমনকি ব্যবহারের জন্য বিপজ্জনক হতে পারে&lt;/b&gt;।&lt;br&gt;&lt;br&gt;এই চেকগুলি ইঙ্গিত দেয় যে এই অ্যাপটি পূর্ববর্তীভাবে প্যাচ করা হয়েছে বা অন্য কাউকে থেকে পাওয়া গেছে:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;এটি দৃঢ়ভাবে সুপারিশ করা হয় যে &lt;b&gt;এই অ্যাপটি আনইনস্টল করা হোক এবং নিজেই প্যাচ করা হোক&lt;/b&gt; যাতে নিশ্চিত করা হয় যে আপনি একটি যাচাইকৃত এবং সুরক্ষিত অ্যাপ ব্যবহার করছেন।&lt;p&gt;&lt;br&gt;যদি উপেক্ষা করা হয়, তাহলে এই সতর্কতাটি শুধুমাত্র দু\'বার দেখানো হবে।</string>
             <string name="revanced_check_environment_not_same_patching_device">অন্য ডিভাইসে প্যাচ করা হয়েছে</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">ReVanced Manager দ্বারা প্যাচ করা হয়নি</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Revanced++ Manager দ্বারা প্যাচ করা হয়নি</string>
             <string name="revanced_check_environment_not_near_patch_time">১০ মিনিটেরও বেশি আগে প্যাচ করা হয়েছে</string>
             <string name="revanced_check_environment_not_near_patch_time_days">%s দিন আগে প্যাচ করা হয়েছে</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK তৈরির তারিখ ত্রুটিপূর্ণ</string>
@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced ভাষা</string>
             <string name="revanced_language_user_dialog_message">"কিছু ভাষার অনুবাদ অনুপস্থিত বা অসম্পূর্ণ হতে পারে।
 
-নতুন ভাষা অনুবাদ করতে বা বিদ্যমান অনুবাদ উন্নত করতে, translate.revanced.app এ ভিজিট করুন"</string>
+নতুন ভাষা অনুবাদ করতে বা বিদ্যমান অনুবাদ উন্নত করতে, github.com/BojanRalic/revanced-plus-plus এ ভিজিট করুন"</string>
             <string name="revanced_language_DEFAULT">অ্যাপ্লিকেশনের ভাষা</string>
             <string name="revanced_pref_import_export_title">আমদানি এবং রপ্তানি</string>
             <string name="revanced_pref_import_export_summary">ReVanced সেটিং আমদানি বা রপ্তানি করুন</string>

@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Մերժել</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Այս հավելվածը, ըստ երևույթին, չի մշակվել ձեզ կողմից։&lt;/h5&gt;&lt;br&gt;Այս հավելվածը կարող է անսպասելիորեն աշխատել կամ &lt;b&gt;վտանգավոր լինել կամ նույնիսկ վտանգավոր լինել օգտագործման համար&lt;/b&gt;։&lt;br&gt;&lt;br&gt;Այս վերահսկումները ենթադրում են, որ այս հավելվածը նախապես մշակված է կամ ստացվել է մեկ այլ անձից։&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Հ強くРекомендуется &lt;b&gt;թվոտացնել այս հավելվածը և ինքնուրույն մշակել այն&lt;/b&gt;՝  ապահովելու համար, որ դուք օգտագործում եք վավերացված և անվտանգ հավելված։&lt;p&gt;&lt;br&gt;Եթե ​​չեք ուշադրություն դարձնում, այս նախազգուշացումը կցուցադրվի միայն երկու անգամ։</string>
             <string name="revanced_check_environment_not_same_patching_device">Պատչված է տարբեր սարքի վրա</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">ReVanced Manager-ով չի տեղադրվել</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Revanced++ Manager-ով չի տեղադրվել</string>
             <string name="revanced_check_environment_not_near_patch_time">Պատչված է ավելի քան 10 րոպե առաջ</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Մշակվել է %s օր առաջ</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK-ի կառուցման ամսաթիվը վնասված է</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced լեզվի</string>
             <string name="revanced_language_user_dialog_message">"Որոշ լեզուների թարգմանությունները կարող են բացակայել կամ թերի լինել:
 
-Նոր լեզուներ թարգմանելու կամ առկա թարգմանությունները բարելավելու համար այցելեք translate.revanced.app"</string>
+Նոր լեզուներ թարգմանելու կամ առկա թարգմանությունները բարելավելու համար այցելեք github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Հավելվածի լեզու</string>
             <string name="revanced_pref_import_export_title">Ներմուծում/Արտահանում</string>
             <string name="revanced_pref_import_export_summary">Import / Export ReVanced կարգավորումներ</string>

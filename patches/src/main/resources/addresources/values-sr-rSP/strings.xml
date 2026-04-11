@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Занемари</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Изгледа да нисте ви печовали ову апликацију.&lt;/h5&gt;&lt;br&gt;Ова апликација можда неће исправно радити, &lt;b&gt;може бити штетна или чак опасна за коришћење.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ове провере подразумевају да је ова апликација унапред печована или добијена од неког другог:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Изричито се препоручује да &lt;b&gt;деинсталирате ову апликацију и сами је печујете&lt;/b&gt; да бисте били сигурни да користите проверену и безбедну апликацију.&lt;p&gt;&lt;br&gt;Ако се занемари, ово упозорење ће бити приказано само два пута.</string>
             <string name="revanced_check_environment_not_same_patching_device">Печовано на другом уређају</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Није инсталирано у ReVanced Manager-у</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Није инсталирано у Revanced++ Manager-у</string>
             <string name="revanced_check_environment_not_near_patch_time">Печовано пре више од 10 минута</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Печовано пре %s дана</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Датум израде APK-а је оштећен</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Језик ReVanced-a</string>
             <string name="revanced_language_user_dialog_message">"Преводи за неке језике могу недостајати или бити непотпуни.
 
-Да бисте превели нове језике или побољшали постојеће преводе, посетите translate.revanced.app"</string>
+Да бисте превели нове језике или побољшали постојеће преводе, посетите github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Језик апликације</string>
             <string name="revanced_pref_import_export_title">Увоз / Извоз</string>
             <string name="revanced_pref_import_export_summary">Увоз / Извоз подешавања ReVanced-а</string>

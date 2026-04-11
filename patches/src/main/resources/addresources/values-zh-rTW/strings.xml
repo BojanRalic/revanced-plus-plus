@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">忽略</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;此應用程式似乎不是由您修補的。&lt;/h5&gt;&lt;br&gt;此應用程式可能無法正常運作，&lt;b&gt;使用上可能有害甚至危險&lt;/b&gt;。&lt;br&gt;&lt;br&gt;這些檢查表示此應用程式是預先修補的或從其他人那裡取得的：&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;強烈建議您&lt;b&gt;解除安裝此應用程式並自行修補&lt;/b&gt;，以確保您使用的是經過驗證且安全的應用程式。&lt;p&gt;&lt;br&gt;如果忽略，此警告將只顯示兩次。</string>
             <string name="revanced_check_environment_not_same_patching_device">在其他裝置上修補</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">不是由 ReVanced Manager 安裝</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">不是由 Revanced++ Manager 安裝</string>
             <string name="revanced_check_environment_not_near_patch_time">修補時間超過 10 分鐘</string>
             <string name="revanced_check_environment_not_near_patch_time_days">修補於 %s 天前</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK 建構日期已損毀</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced 語言</string>
             <string name="revanced_language_user_dialog_message">"部分語言的翻譯可能缺少或不完整。
 
-若要翻譯新的語言或改善現有翻譯，請前往 translate.revanced.app"</string>
+若要翻譯新的語言或改善現有翻譯，請前往 github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">應用程式語言</string>
             <string name="revanced_pref_import_export_title">匯入/匯出</string>
             <string name="revanced_pref_import_export_summary">匯入/匯出 ReVanced 設定</string>

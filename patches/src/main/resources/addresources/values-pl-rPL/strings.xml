@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ignoruj</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Ta aplikacja nie wydaje się być przez ciebie załatana.&lt;/h5&gt;&lt;br&gt;Ta aplikacja może nie działać poprawnie, &lt;b&gt;może być szkodliwa lub nawet niebezpieczna dla użycia&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Te sprawdzenia oznaczają, że ta aplikacja jest wstępnie przygotowana lub uzyskana od kogoś innego:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Zdecydowanie zaleca się odinstalować aplikację &lt;b&gt;i załatać ją samodzielnie&lt;/b&gt;, aby upewnić się, że używasz zweryfikowanej i bezpiecznej aplikacji.&lt;p&gt;&lt;br&gt;Jeśli zostanie to zignorowane, ostrzeżenie wyskoczy tylko dwukrotnie.</string>
             <string name="revanced_check_environment_not_same_patching_device">Załatano na innym urządzeniu</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Nie zainstalowany przez ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Nie zainstalowany przez Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Załatano ponad 10 minut temu</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Załatano %s dni temu</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Data kompilacji APK jest uszkodzona</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Język ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Tłumaczenia dla niektórych języków mogą być brakujące lub niekompletne.
 
-Aby przetłumaczyć nowe języki lub poprawić istniejące tłumaczenia, odwiedź translate.revanced.app"</string>
+Aby przetłumaczyć nowe języki lub poprawić istniejące tłumaczenia, odwiedź github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Język aplikacji</string>
             <string name="revanced_pref_import_export_title">Zaimportuj / Wyeksportuj</string>
             <string name="revanced_pref_import_export_summary">Zaimportuj / Wyeksportuj ustawienia ReVanced</string>

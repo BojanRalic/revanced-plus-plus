@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ignorar</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Esta app no parece estar parcheada por ti.&lt;/h5&gt;&lt;br&gt;Esta app podría no funcionar correctamente, &lt;b&gt; podría ser perjudicial o incluso peligrosa de usar&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Estas comprobaciones implican que esta app está pre-parcheada o se ha obtenido de alguien más:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Se recomienda mucho &lt;b&gt;desinstalar esta app y parchearla por ti mismo&lt;/b&gt; para asegurarte de que estás usando una app segura y validada.&lt;p&gt;&lt;br&gt;Si se ignora, este aviso se mostrará solo dos veces.</string>
             <string name="revanced_check_environment_not_same_patching_device">Parcheado en un dispositivo diferente</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">No instalado por ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">No instalado por Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Parcheado hace más de 10 minutos</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Parcheado hace %s días</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">La fecha de compilación del APK está corrupta</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Idioma de ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Las traducciones para algunos idiomas pueden faltar o estar incompletas.
 
-Para traducir nuevos idiomas o mejorar las traducciones existentes, visita translate.revanced.app"</string>
+Para traducir nuevos idiomas o mejorar las traducciones existentes, visita github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Idioma de la aplicación</string>
             <string name="revanced_pref_import_export_title">Importar / Exportar</string>
             <string name="revanced_pref_import_export_summary">Importar / Exportar ajustes de ReVanced</string>

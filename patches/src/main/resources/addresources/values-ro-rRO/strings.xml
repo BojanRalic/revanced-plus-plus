@@ -35,7 +35,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ignorare</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Această aplicație nu pare să fie modificată de tine.&lt;/h5&gt;&lt;br&gt;Această aplicație ar putea să nu funcționeze corect, &lt;b&gt;ar putea fi dăunătoare sau chiar periculoasă de utilizat&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Aceste verificări implică faptul că această aplicație este modificată anterior sau a fost obținută de la altcineva:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Este recomandat cu tărie să &lt;b&gt;dezinstalați această aplicație și să o modificați singuri&lt;/b&gt; pentru a vă asigura că utilizați o aplicație validată și sigură.&lt;p&gt;&lt;br&gt;Dacă este ignorat, acest avertisment va fi afișat doar de două ori.</string>
             <string name="revanced_check_environment_not_same_patching_device">Patch-at de pe un alt dispozitiv</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Nu este instalat de către ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Nu este instalat de către Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Patch-at acum mai mult de 10 minute</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Patch-at acum %s zile în urmă</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Data construirii APK-ului este coruptă</string>
@@ -87,7 +87,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Limba ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Traducerile pentru unele limbi pot lipsi sau pot fi incomplete.
 
-Pentru a traduce limbi noi sau pentru a îmbunătăți traducerile existente, vizitați translate.revanced.app"</string>
+Pentru a traduce limbi noi sau pentru a îmbunătăți traducerile existente, vizitați github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Limba aplicației</string>
             <string name="revanced_pref_import_export_title">Importă / Exportă</string>
             <string name="revanced_pref_import_export_summary">Import/Export setări ReVanced</string>

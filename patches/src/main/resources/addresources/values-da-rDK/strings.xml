@@ -35,7 +35,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ignorer</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Denne app ser ikke ud til at være blevet patcht af dig.&lt;/h5&gt;&lt;br&gt;Denne app fungerer muligvis ikke korrekt, og den &lt;b style=\"color: red;\"&gt;kan være skadelig eller endda farlig at bruge.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Disse kontroller indikerer, at denne app er for-patched eller erhvervet fra en anden person:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Det anbefales kraftigt at &lt;b style=\"color: blue;\"&gt;afinstallere denne app og patche den selv&lt;/b&gt; for at sikre, at du bruger en valideret og sikker app.&lt;p&gt;&lt;br&gt;Hvis det ignoreres, vises denne advarsel kun to gange.</string>
             <string name="revanced_check_environment_not_same_patching_device">Rettet på en anden enhed</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Ikke installeret af ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Ikke installeret af Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Patched mere end 10 minutter siden</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Patched for %s dage siden</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK byggedato er ødelagt</string>
@@ -87,7 +87,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced-sprog</string>
             <string name="revanced_language_user_dialog_message">"Oversættelser for nogle sprog kan mangle eller være ufuldstændige.
 
-For at oversætte nye sprog eller forbedre de eksisterende oversættelser, besøg translate.revanced.app"</string>
+For at oversætte nye sprog eller forbedre de eksisterende oversættelser, besøg github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">App-sprog</string>
             <string name="revanced_pref_import_export_title">Importér/Eksportér</string>
             <string name="revanced_pref_import_export_summary">Importér/Eksportér ReVanced-indstillinger</string>

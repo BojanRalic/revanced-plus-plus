@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Abaikan</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Aplikasi ini tampaknya tidak ditambal oleh Anda.&lt;/h5&gt;&lt;br&gt;Aplikasi ini mungkin tidak bisa berfungsi dengan baik, &lt;b&gt;bisa berbahaya atau bahkan membahayakan untuk digunakan&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Pemeriksaan ini berarti bahwa aplikasi ini telah ditambal sebelumnya atau diperoleh dari orang lain:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Sangat disarankan untuk &lt;b&gt;mencopot pemasangan aplikasi ini dan menambalnya sendiri&lt;/b&gt; guna memastikan Anda menggunakan aplikasi yang tervalidasi dan aman.&lt;p&gt;&lt;br&gt;Jika diabaikan, peringatan ini hanya akan ditampilkan dua kali.</string>
             <string name="revanced_check_environment_not_same_patching_device">Ditambal pada perangkat yang berbeda</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Tidak terpasang oleh ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Tidak terpasang oleh Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Ditambal lebih dari 10 menit yang lalu</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Ditambal %s hari yang lalu</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Tanggal pembuatan APK rusak</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Bahasa ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Terjemahan untuk beberapa bahasa mungkin hilang atau tidak lengkap.
 
-Untuk menerjemahkan bahasa baru atau meningkatkan terjemahan yang sudah ada, kunjungi translate.revanced.app"</string>
+Untuk menerjemahkan bahasa baru atau meningkatkan terjemahan yang sudah ada, kunjungi github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Bahasa aplikasi</string>
             <string name="revanced_pref_import_export_title">Impor / Ekspor</string>
             <string name="revanced_pref_import_export_summary">Impor / Ekspor setelan ReVanced</string>

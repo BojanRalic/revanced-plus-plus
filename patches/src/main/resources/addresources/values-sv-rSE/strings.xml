@@ -37,7 +37,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Ignorera</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Appen verkar inte vara patchad av dig.&lt;/h5&gt;&lt;br&gt;Den kanske inte fungerar korrekt, &lt;b&gt;kan vara skadlig eller till och med farlig att använda&lt;/b&gt;.&lt;br&gt;&lt;br&gt;Resultatet av kontrollerna innebär att appen har patchats på förhand eller erhållits från någon annan:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Vi rekommenderar starkt att &lt;b&gt;avinstallera appen och patcha den själv&lt;/b&gt; för att säkerställa att du använder en validerad och säker app.&lt;p&gt;&lt;br&gt;Om du ignorerar den här varningen kommer den endast att visas två gånger.</string>
             <string name="revanced_check_environment_not_same_patching_device">Patchad på en annan enhet</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Inte installerad av ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Inte installerad av Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Patchad för mer än 10 minuter sedan</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Patchad för %s dagar sedan</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">Byggdatum för APK är skadat</string>
@@ -89,7 +89,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">Språk för ReVanced</string>
             <string name="revanced_language_user_dialog_message">"Översättningar till vissa språk kan vara ofullständiga eller saknas.
 
-Om du vill översätta till nya språk eller förbättra befintliga översättningar, besök translate.revanced.app"</string>
+Om du vill översätta till nya språk eller förbättra befintliga översättningar, besök github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">Appspråk</string>
             <string name="revanced_pref_import_export_title">Importera/exportera</string>
             <string name="revanced_pref_import_export_summary">Importera/exportera ReVanced-inställningar</string>

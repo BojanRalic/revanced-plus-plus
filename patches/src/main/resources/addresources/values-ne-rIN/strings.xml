@@ -25,7 +25,7 @@ Second \"item\" text"</string>
             <!-- Translations of this should be identical to revanced_custom_branding_name_entry_5 -->
         </patch>
         <patch id="misc.checks.checkEnvironmentPatch">
-            <string name="revanced_check_environment_manager_not_expected_installer">ReVanced Manager द्वारा स्थापित छैन</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Revanced++ Manager द्वारा स्थापित छैन</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK निर्माण मिति खराब भएको छ</string>
         </patch>
         <patch id="misc.dns.checkWatchHistoryDomainNameResolutionPatch"/>

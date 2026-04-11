@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">Negeren</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;Deze app lijkt niet door u te zijn gepatcht.&lt;/h5&gt;&lt;br&gt;Deze app werkt mogelijk niet goed, is **mogelijk schadelijk of zelfs gevaarlijk om te gebruiken**.&lt;br&gt;&lt;br&gt;Deze checks geven aan dat deze app is gepatcht of van iemand anders is verkregen:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;Het is sterk aan te raden om **deze app te verwijderen en zelf te patchen** om er zeker van te zijn dat u een gevalideerde en veilige app gebruikt.&lt;p&gt;&lt;br&gt;Indien genegeerd, zal deze waarschuwing nog slechts twee keer worden getoond.</string>
             <string name="revanced_check_environment_not_same_patching_device">Op een ander apparaat gepatcht</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">Niet geïnstalleerd door ReVanced Manager</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Niet geïnstalleerd door Revanced++ Manager</string>
             <string name="revanced_check_environment_not_near_patch_time">Meer dan 10 minuten geleden gepatcht</string>
             <string name="revanced_check_environment_not_near_patch_time_days">Gepatcht %s dagen geleden</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK-bouwdatum is beschadigd</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced-taal</string>
             <string name="revanced_language_user_dialog_message">"Vertalingen voor sommige talen kunnen ontbreken of onvolledig zijn.
 
-Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek translate.revanced.app"</string>
+Om nieuwe talen te vertalen of bestaande vertalingen te verbeteren, bezoek github.com/BojanRalic/revanced-plus-plus"</string>
             <string name="revanced_language_DEFAULT">App-taal</string>
             <string name="revanced_pref_import_export_title">Importeren / Exporteren</string>
             <string name="revanced_pref_import_export_summary">ReVanced-instellingen importeren / exporteren</string>

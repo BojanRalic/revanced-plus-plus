@@ -38,7 +38,7 @@ Second \"item\" text"</string>
             <string name="revanced_check_environment_dialog_ignore_button">無視</string>
             <string name="revanced_check_environment_failed_message">&lt;h5&gt;このアプリはあなたによってパッチが適用されていないようです。&lt;/h5&gt;&lt;br&gt;このアプリは正しく機能しない可能性があり、&lt;b&gt;使用すると有害または危険になる可能性があります&lt;/b&gt;。&lt;br&gt;&lt;br&gt;これらのチェックは、このアプリが事前にパッチが適用されているか、または他の誰かから取得されたことを意味します:&lt;br&gt;&lt;br&gt;&lt;small&gt;%1$s&lt;/small&gt;&lt;br&gt;検証済みで安全なアプリを使用していることを確認するために、&lt;b&gt;このアプリをアンインストールして自分でパッチを適用する&lt;/b&gt;ことを強くおすすめします。&lt;p&gt;&lt;br&gt;無視した場合、この警告は 2 回のみ表示されます。</string>
             <string name="revanced_check_environment_not_same_patching_device">別のデバイス上でパッチが適用されている</string>
-            <string name="revanced_check_environment_manager_not_expected_installer">ReVanced Manager によってインストールされていない</string>
+            <string name="revanced_check_environment_manager_not_expected_installer">Revanced++ Manager によってインストールされていない</string>
             <string name="revanced_check_environment_not_near_patch_time">10 分以上前にパッチが適用されている</string>
             <string name="revanced_check_environment_not_near_patch_time_days">%s 日前にパッチが適用されている</string>
             <string name="revanced_check_environment_not_near_patch_time_invalid">APK の作成日時データが破損している</string>
@@ -91,7 +91,7 @@ Second \"item\" text"</string>
             <string name="revanced_language_title">ReVanced 設定の言語</string>
             <string name="revanced_language_user_dialog_message">"一部の言語の翻訳が欠落しているまたは不完全である可能性があります。
 
-新しい言語を翻訳する、または既存の翻訳を改善するには、translate.revanced.app にアクセスしてください。"</string>
+新しい言語を翻訳する、または既存の翻訳を改善するには、github.com/BojanRalic/revanced-plus-plus にアクセスしてください。"</string>
             <string name="revanced_language_DEFAULT">アプリの言語</string>
             <string name="revanced_pref_import_export_title">インポート / エクスポート</string>
             <string name="revanced_pref_import_export_summary">ReVanced の設定をインポート/エクスポートします</string>
